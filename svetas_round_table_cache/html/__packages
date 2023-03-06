@@ -1,0 +1,14 @@
+tidyverse
+ggplot2
+tibble
+tidyr
+readr
+purrr
+dplyr
+stringr
+forcats
+inspectdf
+readxl
+Matrix
+lme4
+ggeffects
